@@ -17,9 +17,9 @@ public class PalindromeCheckerApp {
         }
 
         if (input.equals(reversed)) {
-            System.out.println("Result: The string is a palindrome.");
+            System.out.println(" Result: The string is a palindrome.");
         } else {
-            System.out.println("Result: The string is NOT a palindrome.");
+            System.out.println(" Result: The string is NOT a palindrome.");
         }
 
         scanner.close();
